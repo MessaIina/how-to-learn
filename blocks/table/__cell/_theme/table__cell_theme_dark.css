@@ -1,0 +1,10 @@
+.table__cell_theme_dark {
+    color: white;
+    width: 200px;
+    line-height: 1.2;
+    font-size: 18px;
+    font-weight: normal;
+    margin-top: 80px;
+    padding: 0px;
+    list-style-type: none;
+  }
